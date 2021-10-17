@@ -1,0 +1,1 @@
+# Este arquivo pode ser usado para a criação/organização de variáveis para o terraform
